@@ -2,5 +2,5 @@ la base de datos se crea con el nombre de Roxtore
 
 integrantes 
 Melvin-Peñaranda::191677
-Eliu felizzola::191357
+
 
